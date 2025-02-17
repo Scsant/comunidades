@@ -16,7 +16,7 @@
         "Cidade": "AVAÍ",
         "Bairro/Comunidade/Fazenda": "Vizinho",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -36,7 +36,7 @@
         "Cidade": "PONGAÍ",
         "Bairro/Comunidade/Fazenda": "Vizinho",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "-21.7948626, -49.3606179",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -56,7 +56,7 @@
         "Cidade": "SANTA CRUZ DO RIO PARDO",
         "Bairro/Comunidade/Fazenda": "Vizinho",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -76,7 +76,7 @@
         "Cidade": "LINS",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -96,7 +96,7 @@
         "Cidade": "LINS",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -116,7 +116,7 @@
         "Cidade": "AVAÍ",
         "Bairro/Comunidade/Fazenda": "Distrito Nogueira",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -136,7 +136,7 @@
         "Cidade": "ANHEMBI",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -156,7 +156,7 @@
         "Cidade": "AVAÍ",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -176,67 +176,47 @@
         "Cidade": "PAULISTÂNIA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
         "Status": "Em Dia",
-        "#": 4565,
-        "supervisor": "Jhon",
-        "Data": "30/01/2025 11:32",
-        "Descrição": "O requerente entrou em contato para relatar que a equipe operacional de transporte e carregamento danificou a cerca de sua propriedade e realizaram o ...",
+        "#": 4713,
+        "supervisor": "Cassio",
+        "Data": "17/02/2025 11:20",
+        "Descrição": "A requerente entrou em contato para relatar que o transporte de madeira na fazenda Santa Adelaide (0078) está gerando o excesso de poeira e a mesma so...",
         "Área de Interesse": "Transport of Wood",
-        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Classificação": "Excesso de poeira por caminhões ou máquinas",
         "Responsável": "Socrates Luis dos Santos",
         "Atividade": "Tratativa",
-        "Requerente": "Mateus dos Santos",
-        "Projeto": "SÃO BERNARDINO",
+        "Requerente": "Valéria Fabiane Alves",
+        "Projeto": "SANTA ADELAIDE",
         "País": "BRA",
         "Estado": "São Paulo",
-        "Cidade": "BOTUCATU",
-        "Bairro/Comunidade/Fazenda": "Rubião Junior",
-        "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
-        "longitude": "NaN"
-    },
-    {
-        "Status": "Em Dia",
-        "#": 4564,
-        "supervisor": "Jhon",
-        "Data": "30/01/2025 10:56",
-        "Descrição": "A requerente entrou em contato para comunicar que a operação de carregamento na fazenda São Bernardino (0484) já finalizou e deixaram um buraco na est...",
-        "Área de Interesse": "Transport of Wood",
-        "Classificação": "Falta de manutenção de estradas",
-        "Responsável": "Socrates Luis dos Santos",
-        "Atividade": "Plano Ação",
-        "Requerente": "Aline Santos",
-        "Projeto": "SÃO BERNARDINO",
-        "País": "BRA",
-        "Estado": "São Paulo",
-        "Cidade": "BOTUCATU",
+        "Cidade": "GETULINA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
         "Status": "Em Dia",
-        "#": 4559,
-        "supervisor": "Jhon",
-        "Data": "29/01/2025 10:53",
-        "Descrição": "A requerente entrou em contato para relatar que a equipe operacional de silvicultura danificou as cercas de sua propriedade enquanto atuavam na fazend...",
+        "#": 4712,
+        "supervisor": "Raquel",
+        "Data": "17/02/2025 10:44",
+        "Descrição": "O requerente relata que há um caminhão da empresa VDA atolado em frente à sua propriedade, há quase uma semana, e solicita a remoção do mesmo. Projeto...",
         "Área de Interesse": "Transport of Wood",
-        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Classificação": "Informações sobre a operação",
         "Responsável": "Socrates Luis dos Santos",
         "Atividade": "Tratativa",
-        "Requerente": "Simone Santos",
-        "Projeto": "SÃO BERNARDINO",
+        "Requerente": "Ronaldo Santos",
+        "Projeto": "MONJOLÃO",
         "País": "BRA",
         "Estado": "São Paulo",
-        "Cidade": "BOTUCATU",
-        "Bairro/Comunidade/Fazenda": "Rubião Junior",
+        "Cidade": "BOFETE",
+        "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -256,7 +236,7 @@
         "Cidade": "GÁLIA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -276,7 +256,7 @@
         "Cidade": "ITATINGA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -296,7 +276,7 @@
         "Cidade": "GUARANTÃ",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -316,7 +296,7 @@
         "Cidade": "LENCOIS PAULISTA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -336,7 +316,7 @@
         "Cidade": "ÁGUAS DE SANTA BÁRBARA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -356,7 +336,7 @@
         "Cidade": "PRESIDENTE ALVES",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -376,7 +356,7 @@
         "Cidade": "BOTUCATU",
         "Bairro/Comunidade/Fazenda": "Rubião Junior",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -396,7 +376,7 @@
         "Cidade": "PAULISTÂNIA",
         "Bairro/Comunidade/Fazenda": "Vizinho",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -416,7 +396,7 @@
         "Cidade": "ITATINGA",
         "Bairro/Comunidade/Fazenda": "Distrito Lobo",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -436,7 +416,7 @@
         "Cidade": "ITATINGA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -456,7 +436,7 @@
         "Cidade": "ITATINGA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -476,7 +456,7 @@
         "Cidade": "ANHEMBI",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -496,7 +476,7 @@
         "Cidade": "LENCOIS PAULISTA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -516,7 +496,7 @@
         "Cidade": "PAULISTÂNIA",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -536,7 +516,7 @@
         "Cidade": "SÃO PEDRO",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -556,7 +536,7 @@
         "Cidade": "AVAÍ",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -576,7 +556,7 @@
         "Cidade": "BAURU",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     },
     {
@@ -596,7 +576,7 @@
         "Cidade": "AVAÍ",
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN",
-        "latitude, longitude": "nan",
+        "latitude": "NaN",
         "longitude": "NaN"
     }
 ]
