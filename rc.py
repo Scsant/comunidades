@@ -16,7 +16,7 @@ def load_json(file):
         return None
 
 COORDENADAS_FIXAS = {
-    "ÁGUAS DE SANTA BÁRBARA": (-22.868317, -49.267721),
+    "ÁGUAS DE SANTA BÁRBARA": (-22.7666740, -49.2141300),
     "ANHEMBI": (-22.789859, -48.140030),
     "AVAÍ": (-22.159374, -49.369551),
     "BAURU": (-22.262420, -49.180159),
