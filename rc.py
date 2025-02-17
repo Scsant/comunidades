@@ -90,7 +90,7 @@ if data is not None and not data.empty:
     map_styles = ["open-street-map", "carto-positron", "carto-darkmatter", "stamen-terrain", "stamen-toner", "stamen-watercolor"]
     selected_style = st.sidebar.selectbox("🌎 Escolha o estilo do mapa:", map_styles)
 
-    st.subheader(f"🗺️ Mapa de Ocorrências Filtradas - Estilo: {selected_style}")
+    st.subheader(f"🗺️ Mapa de Ocorrências - Estilo: {selected_style}")
     fig_mapa = px.scatter_map(
         coordenadas_df,
         lat='latitude',
