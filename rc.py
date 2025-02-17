@@ -61,6 +61,7 @@ if data is not None and not data.empty:
     supervisor_counts = filtered_data['supervisor'].value_counts().reset_index()
     supervisor_counts.columns = ['Supervisor', 'Contagem']
     fig_supervisor = px.bar(supervisor_counts, x='Supervisor', y='Contagem', title='Demandas por Supervisor', text='Contagem', color_discrete_sequence=['#00a7ab'])
+    fig_supervisor.update_layout(dragmode=False)
     st.plotly_chart(fig_supervisor)
 
     # Gráfico de barras horizontais por classificação
@@ -68,6 +69,7 @@ if data is not None and not data.empty:
     classificacao_counts = filtered_data['Classificação'].value_counts().reset_index()
     classificacao_counts.columns = ['Classificação', 'Contagem']
     classificacao_counts = classificacao_counts.sort_values(by='Contagem', ascending=True)
+    
     fig_classificacao = px.bar(
         classificacao_counts,
         x='Contagem',
@@ -77,6 +79,7 @@ if data is not None and not data.empty:
         text='Contagem',
         color_discrete_sequence=['#00a7ab']
     )
+    fig_classificacao.update_layout(dragmode=False)
     st.plotly_chart(fig_classificacao)
 
     ocorrencias = filtered_data['Cidade'].value_counts().reset_index()
@@ -104,7 +107,8 @@ if data is not None and not data.empty:
         map_style=selected_style,
         map_center={"lat": -22.8, "lon": -49.3},
         autosize=False,
-        width=800
+        width=800,
+        dragmode=False
     )
     st.plotly_chart(fig_mapa, use_container_width=False)
 else:
