@@ -47,13 +47,13 @@ if data is not None and not data.empty:
     with col1:
         demanda_num = st.text_input("🔍 Número da demanda (#):")
     with col2:
-        supervisor_name = st.text_input("👤 Supervisor:")
+        supervisor_name = st.multiselect("👤 Supervisor(s):", options=data['supervisor'].unique())
 
     filtered_data = data.copy()
     if demanda_num:
         filtered_data = filtered_data[filtered_data['#'].astype(str) == demanda_num]
     if supervisor_name:
-        filtered_data = filtered_data[filtered_data['supervisor'].str.contains(supervisor_name, case=False, na=False)]
+        filtered_data = filtered_data[filtered_data['supervisor'].str.lower().isin([name.lower() for name in supervisor_name])]
 
     st.markdown(f"### 📊 Total de Demandas Filtradas: **{len(filtered_data)}**")
     st.dataframe(filtered_data)
