@@ -10,11 +10,14 @@ def load_json(file):
     try:
         df = pd.read_json(file)
         st.write("📊 Dados carregados com sucesso a partir do JSON!")
+        
+        # Converte o campo '#' removendo vírgulas e transformando em string
+        df['#'] = df['#'].astype(str).str.replace(',', '')
+        
         return df
     except Exception as e:
         st.error(f"⚠️ Erro ao carregar o arquivo JSON: {e}")
         return None
-
 COORDENADAS_FIXAS = {
     "ÁGUAS DE SANTA BÁRBARA": (-22.7666740, -49.2141300),
     "ANHEMBI": (-22.789859, -48.140030),
