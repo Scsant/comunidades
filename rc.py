@@ -85,6 +85,11 @@ if data is not None and not data.empty:
     fig_classificacao.update_layout(dragmode=False)
     st.plotly_chart(fig_classificacao)
 
+    status_counts = filtered_data['Status'].value_counts().reset_index()
+    status_counts.columns = ['Status', 'Contagem']
+    fig_status = px.bar(status_counts, x='Status', y='Contagem', title='Status da demanda', text='Contagem', color_discrete_sequence=['#00a7ab'])
+    st.plotly_chart(fig_status)
+
     ocorrencias = filtered_data['Cidade'].value_counts().reset_index()
     ocorrencias.columns = ['Cidade', 'Contagem']
     coordenadas = [(cidade, *obter_coordenadas(cidade), ocorrencias.loc[ocorrencias['Cidade'] == cidade, 'Contagem'].values[0]) for cidade in ocorrencias['Cidade'] if cidade in COORDENADAS_FIXAS]
