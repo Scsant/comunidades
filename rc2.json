@@ -1,10 +1,101 @@
 [
 
+
     
     {
         "Status": "Em Dia",
+        "#": 4781,
+        "supervisor": "Cassio",
+        "Data": "25/02/2025 13:00",
+        "Descrição": "A requerente relatou que as operações de transporte de madeira na rota da Fazenda Santa Branca, próximo de sua propriedade, estão causando diversos tr...",
+        "Área de Interesse": "Transport of Wood",
+        "Classificação": "Falta de manutenção de estradas",
+        "Responsável": "Socrates Luis dos Santos",
+        "Atividade": "Tratativa",
+        "Requerente": "Rafaela Batista",
+        "Projeto": "SANTA BRANCA",
+        "País": "BRA",
+        "Estado": "São Paulo",
+        "Cidade": "ECHAPORÃ",
+        "Bairro/Comunidade/Fazenda": "nan",
+        "Plano de Ação": "NaN"
+    },
+    {
+        "Status": "Em Dia",
+        "#": 4771,
+        "supervisor": "Alexandre",
+        "Data": "24/02/2025 15:09",
+        "Descrição": "O requerente informa que um caminhão da Bracell, bitrem danificou sua calçada em passagem pela cidade de Borebi por volta do dia 19/02/25. A calçada e...",
+        "Área de Interesse": "Transport of Wood",
+        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Responsável": "Socrates Luis dos Santos",
+        "Atividade": "Tratativa",
+        "Requerente": "Pedro - Borebi",
+        "Projeto": "nan",
+        "País": "BRA",
+        "Estado": "São Paulo",
+        "Cidade": "BOREBI",
+        "Bairro/Comunidade/Fazenda": "nan",
+        "Plano de Ação": "NaN"
+    },
+    {
+        "Status": "Em Dia",
+        "#": 4765,
+        "supervisor": "RC",
+        "Data": "21/02/2025 16:40",
+        "Descrição": "Carregador Florestal (CF) ao desembarcar do prancha, foi deslocar para dentro da fazenda pois foi desembarcado na principal. Operador por falta de ate...",
+        "Área de Interesse": "Transport of Wood",
+        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Responsável": "Socrates Luis dos Santos",
+        "Atividade": "Tratativa",
+        "Requerente": "Jairo Prestes da Silva",
+        "Projeto": "SANTA BRANCA",
+        "País": "BRA",
+        "Estado": "São Paulo",
+        "Cidade": "ECHAPORÃ",
+        "Bairro/Comunidade/Fazenda": "nan",
+        "Plano de Ação": "NaN"
+    },
+    {
+        "Status": "Em Dia",
+        "#": 4759,
+        "supervisor": "Adriano",
+        "Data": "21/02/2025 14:11",
+        "Descrição": "O requerente relata danos causados em longos trechos de cerca, ocasionados pelas operações de transporte de madeira na fazenda Boa Vista VIII - Itaque...",
+        "Área de Interesse": "Transport of Wood",
+        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Responsável": "Socrates Luis dos Santos",
+        "Atividade": "Tratativa",
+        "Requerente": "Luiz Otávio Magalhães",
+        "Projeto": "BOA VISTA VIII - ITAQUERÊ",
+        "País": "BRA",
+        "Estado": "São Paulo",
+        "Cidade": "ANHEMBI",
+        "Bairro/Comunidade/Fazenda": "nan",
+        "Plano de Ação": "NaN"
+    },
+    {
+        "Status": "Em Dia",
+        "#": 4757,
+        "supervisor": "Thiago",
+        "Data": "21/02/2025 13:09",
+        "Descrição": "O requerente é vizinho da fazenda Sossego II (0030) e relatou que as operações de Colheita e Transporte Florestal ocorridas há cerca de um mês atrás n...",
+        "Área de Interesse": "Transport of Wood",
+        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
+        "Responsável": "Socrates Luis dos Santos",
+        "Atividade": "Tratativa",
+        "Requerente": "Wilson Roberto Bernadeli",
+        "Projeto": "SOSSEGO II",
+        "País": "BRA",
+        "Estado": "São Paulo",
+        "Cidade": "BAURU",
+        "Bairro/Comunidade/Fazenda": "Distrito Tibiriça",
+        "Plano de Ação": "NaN"
+    },
+    {
+        "Status": "Em Dia",
         "#": 4709,
-        "supervisor": "nan",
+        "supervisor": "Henrique",
         "Data": "17/02/2025 08:51",
         "Descrição": "O requerente comunicou pessoalmente o representante de Relações com Comunidades, Henrique, a respeito de danos em sua cerca oriundos das atividades do...",
         "Área de Interesse": "Transport of Wood",
@@ -112,7 +203,7 @@
     {
         "Status": "Em Dia",
         "#": 4537,
-        "supervisor": "nan",
+        "supervisor": "Cassio",
         "Data": "24/01/2025 17:07",
         "Descrição": "O requerente entrou em contato para relatar que houveram danos em cerca de sua propriedade durante a operação de carregamento e transporte de madeira ...",
         "Área de Interesse": "Transport of Wood",
@@ -343,5 +434,5 @@
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN"
     }
-    
+
 ]
