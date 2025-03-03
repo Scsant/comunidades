@@ -359,24 +359,7 @@
         "Bairro/Comunidade/Fazenda": "nan",
         "Plano de Ação": "NaN"
     },
-    {
-        "Status": "Atrasado",
-        "#": 4136,
-        "supervisor": "Ricardo",
-        "Data": "25/11/2024 13:24",
-        "Descrição": "O requerente é morador interno da fazenda São Domingos (0325) e entrou em contato para relatar que a operação de carregamento de madeira acabou danifi...",
-        "Área de Interesse": "Roads - Logistics",
-        "Classificação": "Danos causados à estruturas (cercas, moradia, mata-burro, rede elétrica e outros)",
-        "Responsável": "Socrates Luis dos Santos",
-        "Atividade": "Tratativa",
-        "Requerente": "Ivo de Jesus Garcia",
-        "Projeto": "SÃO DOMINGOS",
-        "País": "BRA",
-        "Estado": "São Paulo",
-        "Cidade": "AVAÍ",
-        "Bairro/Comunidade/Fazenda": "nan",
-        "Plano de Ação": "NaN"
-    },
+
     {
         "Status": "Atrasado",
         "#": 4133,
