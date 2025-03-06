@@ -37,24 +37,6 @@
     },
     {
         "Status": "Em Dia",
-        "#": 4759,
-        "supervisor": "Adriano",
-        "Data": "21/02/2025 14:11",
-        "Descrição": "O requerente relata danos causados em longos trechos de cerca, ocasionados pelas operações de transporte de madeira na fazenda Boa Vista VIII - Itaque...",
-        "Área de Interesse": "Transport of Wood",
-        "Classificação": "Danos à(cercas, moradia, mata-burro, rede elétrica e outros)",
-        "Responsável": "Socrates Luis dos Santos",
-        "Atividade": "Tratativa",
-        "Requerente": "Luiz Otávio Magalhães",
-        "Projeto": "BOA VISTA VIII - ITAQUERÊ",
-        "País": "BRA",
-        "Estado": "São Paulo",
-        "Cidade": "ANHEMBI",
-        "Bairro/Comunidade/Fazenda": "nan",
-        "Plano de Ação": "NaN"
-    },
-    {
-        "Status": "Em Dia",
         "#": 4757,
         "supervisor": "Thiago",
         "Data": "21/02/2025 13:09",
@@ -360,24 +342,6 @@
         "Plano de Ação": "NaN"
     },
 
-    {
-        "Status": "Atrasado",
-        "#": 4133,
-        "supervisor": "Arthur",
-        "Data": "25/11/2024 12:36",
-        "Descrição": "O requerente é subprefeito do distrito de Tibiriça e entrou em contato para relatar que um caminhão transportador de madeira acabou gerando danos na c...",
-        "Área de Interesse": "Roads - Logistics",
-        "Classificação": "Danos à(cercas, moradia, mata-burro, rede elétrica e outros)",
-        "Responsável": "Socrates Luis dos Santos",
-        "Atividade": "Tratativa",
-        "Requerente": "Ricardo Simão de Marchi - subprefeito de Tibiriça",
-        "Projeto": "nan",
-        "País": "BRA",
-        "Estado": "São Paulo",
-        "Cidade": "BAURU",
-        "Bairro/Comunidade/Fazenda": "nan",
-        "Plano de Ação": "NaN"
-    },
     {
         "Status": "Atrasado",
         "#": 4065,
